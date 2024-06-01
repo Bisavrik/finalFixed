@@ -1,0 +1,9 @@
+﻿  SourceFinalFunction.cpp
+C:\Users\sofia\Downloads\ProjectFinalFinal\ProjectFinalFinal\SourceFinalFunction.cpp(26,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\Downloads\ProjectFinalFinal\ProjectFinalFinal\SourceFinalFunction.cpp(36,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\Downloads\ProjectFinalFinal\ProjectFinalFinal\SourceFinalFunction.cpp(171,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\Downloads\ProjectFinalFinal\ProjectFinalFinal\SourceFinalFunction.cpp(182,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\Downloads\ProjectFinalFinal\ProjectFinalFinal\SourceFinalFunction.cpp(317,1): warning C4715: searchByPriority: значение возвращается не при всех путях выполнения
+C:\Users\sofia\Downloads\ProjectFinalFinal\ProjectFinalFinal\SourceFinalFunction.cpp(355,1): warning C4715: searchByDateTime: значение возвращается не при всех путях выполнения
+C:\Users\sofia\Downloads\ProjectFinalFinal\ProjectFinalFinal\SourceFinalFunction.cpp(445,1): warning C4715: compareDateTime: значение возвращается не при всех путях выполнения
+  ProjectFinalFinal.vcxproj -> C:\Users\sofia\Downloads\ProjectFinalFinal\x64\Debug\ProjectFinalFinal.exe
